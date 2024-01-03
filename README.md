@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sarim-Silent
-- 👀 I’m interested in Coding HTML, CSS and JS. I create projects and upload the source code on my channel.
+- 👀 I’m interested in Coding HTML, CSS, PYTHON and JS. I create projects and upload the source code on my channel.
 - 🌱 I’m currently learning JS, C++ , C+ , C , PYTHON.
 - 💞️ I’m looking to collaborate on GITHUB.
 - 📫 How to reach me at the pro prog give me your advice.
